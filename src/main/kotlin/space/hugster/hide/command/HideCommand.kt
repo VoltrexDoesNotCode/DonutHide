@@ -27,7 +27,7 @@ class HideCommand
         } ?: player.sendMessage(translate("&7TAB player data not found."))
     }
 
-    @Command("hide all")
+    @Command("hide-all")
     @CommandPermission("hide.all")
     fun onAll(player: Player)
     {
