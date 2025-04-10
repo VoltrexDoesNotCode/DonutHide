@@ -2,7 +2,7 @@ main: space.hugster.hide.DonutHide
 name: DonutHide
 author: Hugster
 api-version: 1.20
-version: 1.0
+version: 1.1
 folia-supported: true
 libraries:
   - org.jetbrains.kotlin:kotlin-stdlib:2.1.0
